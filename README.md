@@ -32,4 +32,4 @@ A simple app to search GitHub users and view their profile and latest repos.
 ## Acknowledgments 🙌
 
 - **Bootstrap** for styling.
-- **GitHub API** for data. ![GitHub Sticker](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+- **GitHub API** for data. ![GitHub Sticker](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =50x50)
